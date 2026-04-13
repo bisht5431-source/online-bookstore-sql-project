@@ -408,5 +408,5 @@ CREATE DATABASE bookstore_db;
 </p>
 
 <p align="center">
-📚 Made with ❤️ and lots of SQL queries by <b>[Your Name]</b>
+📚 Made with ❤️ and lots of SQL queries by <b>[Manish Bisht]</b>
 </p>
